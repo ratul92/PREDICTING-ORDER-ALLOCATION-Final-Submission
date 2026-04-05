@@ -1,0 +1,24 @@
+# Core Data Processing
+pandas
+numpy
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning & Modeling
+scikit-learn
+xgboost
+lightgbm
+
+# Model Interpretability & Deployment
+shap
+joblib
+
+# Geospatial Analysis (For K-Means and Mapping)
+geopy
+
+# Notebook Environment
+ipykernel
+notebook
