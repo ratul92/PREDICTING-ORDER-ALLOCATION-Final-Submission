@@ -1,0 +1,6 @@
+=== FINAL SUPPLY CHAIN MODEL PERFORMANCE ===
+Stacked Ensemble MAE: 0.975 days
+Baseline RB-DH MAE: 1.252 days
+Baseline ARIMA MAE: 1.420 days
+Decision Curve Net Benefit (>3 days): 0.1558
+Calibration Error: 27.88%
